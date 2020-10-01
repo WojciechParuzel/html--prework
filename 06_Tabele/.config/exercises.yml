@@ -1,0 +1,3 @@
+exercises:
+    '1_Kółko i krzyżyk': { max_points: 0, disabled: true }
+    2_Kalendarz: { max_points: 0, disabled: true }
